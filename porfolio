@@ -1,0 +1,2879 @@
+
+<!DOCTYPE html>
+<html lang="en" class="link-html">
+
+<head>
+    <title>Johnson Olubodun</title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <meta property="og:site_name" content="Zaap">
+    <meta property="og:title" content="Johnson Olubodun">
+    <meta property="og:description" content="UI Designer/AI Enthusiast">
+    <meta property="og:image"
+        content="https://images.zaap.ai/public/bcb1d75e4c39ad1b4ae24ce1430381a08e1b7336f0080e88ede8.png">
+    <meta property="og:url" content="https://zaap.bio/ui.johnson">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <meta name="twitter:title" content="">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <meta name="twitter:description" content="UI Designer/AI Enthusiast">
+    <meta name="twitter:image"
+        content="https://images.zaap.ai/public/bcb1d75e4c39ad1b4ae24ce1430381a08e1b7336f0080e88ede8.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" href="https://zaap.bio/assets/calendar-plugin/css/mobiscroll.jquery.min.css">
+
+    <!-- Open Graph / Facebook -->
+    <!-- <meta property="og:" content="" /> -->
+
+    <!-- Twitter -->
+    <meta property="twitter:type" content="website" />
+    <meta property="twitter:url" content="https://zaap.bioui.johnson" />
+
+
+    <link href="https://imagedelivery.net/tqC70bVt8T6GtQUXNsa2-g/6ac9f7a7-81fc-4982-7f41-daa9c5b2e400/public" rel="icon" />
+
+    <link href="https://zaap.bio/assets/page/css/app.css" rel="stylesheet" media="screen">
+
+    <link href="https://zaap.bio/assets/page/css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+    <link href="https://zaap.bio/assets/page/css/custom.css" rel="stylesheet" media="screen">
+
+    <link href="https://zaap.bio/assets/page/css/link-custom.css?v=20240112193807" rel="stylesheet" media="screen">
+
+    <style>
+    
+html {
+    background-color: white !important;
+}
+
+@media(min-width:993px) {
+    /* .single-link-block-img {
+        width: 30%;
+    } */
+
+    /* .container.animate__animated.animate__fadeIn,
+    .profile_title,
+    .profile_description div,
+    .profile_socials {
+        max-width: 900px ;
+        margin: 0 auto !important;
+    } */
+}
+
+#navbar,
+.footer {
+    display: none;
+}
+
+
+.link-body {
+    background-color: #000000 !important;
+}
+
+.link-footer {
+    /* background-color: #212930; */
+    padding: 30px 0;
+    margin-top: 30px;
+    padding-bottom:20px;
+    color: #ffffff;
+        /* border-top: 1px dashed #ffffff; */
+        font-size: 12px;
+    font-weight:500;
+}
+
+
+/* .single-link-block {
+    background-color: #1e232a !important;
+    box-shadow: 0px 0px 15px rgb(17 21 26 / 15%);
+} */
+
+/* .link-card div a,
+.text-block-main,
+.product-card-a{
+    background-color: #1e232a !important;
+} */
+
+/* .single-product-div a.product-card-purchase-btn,
+.single-product-div .product-card-price-badge,
+.single-product-div .product-card-learn-more-btn{
+    background-color: #ffffff !important;
+    color: #1E242A !important
+} */
+
+/* .widget-input input {
+    border: 3px solid #ffffff !important;
+} */
+
+/* .widget-input input::placeholder,
+.widget-input input{
+    color: #ffffff !important;
+} */
+
+/* .subscribe-next-btn svg rect {
+    fill: #000;
+} */
+
+/* body { */
+    /* -webkit-font-smoothing: subpixel-antialiased; */
+    /* -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke: 1px transparent;
+    text-rendering: optimizeLegibility !important;
+} */
+
+/* .profile-main {
+    width: 100%;
+    padding: 50px 0; */
+    /* border-bottom:2px solid #f3f3f3; */
+    /* max-width:1400px !important; */
+/* } */
+
+/* .profile-img-div { */
+    /* height:100px; */
+    /* text-align: center !important; */
+    /* background-color:red; */
+    /* justify-content:flex-end; */
+    /* display: flex;
+} */
+
+/* .profile-info-div { */
+    /* height:100px; */
+    /* text-align: center !important;
+    align-items: start;
+    margin-bottom: -1px; */
+    /* background-color:red; */
+/* }
+ 
+.profile-info-div h2 {
+    font-weight: 600;
+    letter-spacing: -1px;
+}
+
+.profile-info-div small {
+    font-size: 14px;
+    width: 100%;
+} */
+
+/* .profile-info-div h2,
+.profile-info-div p,
+.profile-info-div small {
+    width: 100%; */
+    /* float:left; */
+    /* text-align: left;
+    margin: 0;
+} */
+
+/* .profile-info-div p {
+    margin: 10px 0;
+} */
+
+.container {
+    max-width: 1300px;
+}
+
+/* .user-avatar {
+    margin: 0 !important;
+    max-width: 150px;
+    max-height: 150px;
+    width: 120px;
+    height: 120px;
+} */
+
+/* .link-card {
+    width: 275px;
+    height: 260px;
+    padding: 10px 10px;
+    padding-left: 5px;
+    margin: 0;
+} */
+
+.link-card a,.link-card .link-btn-rounded {
+    border-radius: 40px;
+    padding: 16px;
+    min-height: 360px;
+    max-height: 360px;
+}
+
+.product-card-a {
+    border-radius: 40px;
+    padding: 16px;
+    min-height: 360px;
+    max-height: 360px;
+    height: 100%;
+    min-height: inherit;
+}
+
+/* .link-card-single{
+max-height:550px !important;
+min-height:450px !important;
+} */
+@media(max-width:400px) {
+    /* .link-card-single{
+min-height:400px !important;
+} */
+}
+
+.link-card-single div:first-child,
+.link-card-single div:first-child a,
+.product-card-a {
+    height: 100%;
+    min-height: inherit;
+}
+
+.link-card-single div:first-child a,
+.product-card-a {
+    max-height: fit-content !important;
+}
+
+/* .link-img-div {
+    width: 100%;
+     height:151px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    } */
+
+/* .link-img-div img { */
+    /* width:70px;
+height:70px; */
+    /* width: 100%;
+    min-height: 100%;
+} */
+
+/* .link-title {
+    font-size: 22px;
+    margin: 15px 0;
+    font-weight: 500 !important;
+    text-align: left;
+    margin-bottom: 7px;
+} */
+
+.product-link-title {
+    font-size: 18px;
+}
+
+/* .link-description {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #404762;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+    font-weight: 400; 
+}*/
+
+.product-link-description {
+    font-size: 14px;
+}
+
+/* .social-links-div { */
+    /* background-color: #f3f3f3;
+border-radius: 50%; */
+    /* padding: 5px;
+    display: inline-flex;
+    -webkit-animation: in 1s; */
+    /* margin-right:2px; */
+/* } */
+
+/* .social-links-div .fa-2x {
+    font-size: 21px;
+}
+
+.social-links-div:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2)
+    -ms-transform: scale(1.2);
+} */
+
+.slick-track {
+    margin-left: 0 !important;
+}
+
+/* .div-block-342 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 90%;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 50px;
+    position: absolute;
+    background-color: #ffffff !important;
+    color: #1E242A !important;
+    bottom: 18px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    font-weight: 600;
+    left: 5%;
+} */
+
+.font-weight-medium2 {
+    font-weight: 600;
+}
+
+.profile-img-div {
+    justify-content: center;
+}
+
+.profile-info-div h2,
+.profile-info-div p,
+.profile-info-div small {
+    text-align: center;
+}
+
+.slick-list {
+    padding: 0 21% 0 5% !important;
+}
+
+@media(max-width:767px) {
+    .user-avatar {
+        width: 100px;
+        height: 100px;
+    }
+
+    .profile-main {
+        padding: 25px 0;
+    }
+}
+
+@media(max-width:550px) {
+    footer {
+        height: auto;
+    }
+    .checkout-modal-dialog{
+        width: 96% !important;
+    }
+    
+}
+
+@media(max-width:500px) {
+    .purchase-btn,.price-btn{
+        min-width: 45% !important;
+        font-size: 14px !important
+    }
+}
+
+@media(max-width:400px) {
+    .link-img-div {
+        /* height:150px; */
+    }
+}
+
+.slick-track {
+    display: flex !important;
+}
+
+.slick-slide {
+    height: inherit !important;
+}
+
+/* .link-card{
+flex-basis:25%;
+} */
+.links-slider {
+    flex-basis: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* padding-bottom:20px; */
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.links-slider-main {
+    /* margin-left:0;
+padding-left:5px; */
+    margin-bottom: 10px;
+}
+
+/* .tiktok-links-slider-main{
+    width:120% !important;
+    margin-left:0%;
+}
+.tiktok-links-slider-main div div{
+   width:250px;
+} */
+@media(max-width:1200px) {
+
+    /* .tiktok-links-slider-main{
+    width:100% !important;
+    margin-left:0%;
+} */
+}
+
+._embed_video_wrapper {
+    border: none !important;
+}
+
+.links-slider-main::-webkit-scrollbar {
+    height: 0.5em;
+}
+
+.links-slider-main::-webkit-scrollbar-track {}
+
+.links-slider-main::-webkit-scrollbar-thumb {
+    background-color: #d3d3d3;
+    border-radius: 50px;
+}
+
+@media(min-width:767px) {
+    .links-slider {
+        flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    /* .tiktok-links-slider-main .links-slider {
+        justify-content: center;
+    }
+
+    .link-card {
+        flex-basis: 33%;
+        height: auto;
+    } */
+
+    
+}
+
+/* for 16:9 img */
+/* @media(max-width:1200px) {
+    .link-img-div { */
+        /* height:137px; */
+    /* }
+} */
+
+/* @media(max-width:1000px) { */
+    /* .link-img-div { */
+        /* height:109px; */
+    /* }
+
+    .link-card {
+        flex-basis: 33%;
+        height: auto;
+    }
+
+    .link-card-single {
+        flex-basis: 33%;
+        height: inherit;
+    } */
+/* } */
+
+@media(max-width:767px) {
+    /* .link-card {
+        flex-basis: auto; */
+        /* height:auto; */
+    /* } */
+
+    /* .profile_description {
+        font-size: 15px;
+    } */
+
+    .link-content {
+        padding: 0rem 1rem;
+    }
+
+    .links-slider-main {
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+
+    .links-slider {
+        display: flex;
+    }
+
+    /* .folder-title {
+        text-align: left !important;
+    }
+    .link-title{
+        max-height: 52px;
+        overflow: hidden;
+    }
+    .link-description-child-link{
+        max-height: 80px;
+        overflow: hidden;
+    } */
+}
+
+/* .profile_description {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.link-description,
+.social-links-div,
+.single-link-block-details p,
+.widget-block p {
+    color:  #ffffff !important;
+} */
+
+/* input.form-control:focus,
+textarea.form-control:focus {
+    color: #ffffff !important;
+    background-color: transparent !important;
+} */
+
+/* .link-title,
+.single-link-block-details h4,
+.single-link-block-details h4,
+.text-block-main h4,
+.text-block-main h1,
+.text-block-main p,
+.widget-block h4, */
+.post-card h4,
+.post-card p {
+    color: #ffffff !important;
+}
+
+.single-link-block-arrow svg rect{
+    fill: #ffffff !important;
+}
+
+.folder-title{
+    color: #ffffff !important;
+}
+
+.product-title,.product-short-description,.product-description{
+    color: #ffffff !important;
+}
+.product-title{
+    letter-spacing: -1px;
+    font-weight: 600;
+}
+.folder-title {
+    font-size: 22px;
+    text-align: center;
+    font-weight: 500 !important;
+}
+
+.btn-primary:focus,
+.btn-primary.focus {
+    box-shadow: 0px 0px 15px #00008024 !important;
+}
+
+.div-block-342,
+.product-card-price-badge {
+    color: #fff;
+}
+
+.profile_title {
+    overflow-wrap: anywhere;
+}
+
+.single-link-block-img{
+    background-color: #1e232a !important;
+}
+.widget-block {
+    background-color: #1e232a !important;
+}
+.post-border-light {
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.08);
+    transition: box-shadow 0.3s ease;
+}
+    
+.post-border-light:hover {
+    box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.08);
+}
+    
+.post-border-dark {
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.08);
+    transition: box-shadow 0.3s ease;
+}
+    
+.post-border-dark:hover {
+    box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.08);
+}
+
+.skeleton-line,.skeleton-img,.skeleton-button{
+    background-color: #ffffff !important;
+}
+
+.subscribe-next-btn, .subscribe-btn,.page-menu-btn, .page-menu-btn-inverse, .purchase-btn{
+    background-color: #ffffff !important;
+    border:none;
+        color: #1E242A !important;
+        font-weight: 500;
+}
+/* .page-menu-btn{
+    border: 3px solid transparent !important;
+} */
+.product-card-a a.product-card-learn-more-btn{
+    /* border: 3px solid #ffffff !important;
+    color: #ffffff !important;
+     */
+    border-color: transparent !important;
+    background-color: #ffffff !important;
+    color: #1E242A !important;
+}
+.price-btn,.page-menu-btn-inverse{
+    border: 3px solid #ffffff !important;
+    color: #ffffff !important;
+    background: transparent !important;
+}
+.purchase-btn{
+    border: 3px solid transparent !important;
+}
+.purchase-btn,.price-btn{
+    border-radius: 16px !important;
+    min-width: 220px;
+    font-size: 16px;
+    font-weight: 700;
+    padding-top:12px !important;
+    padding-bottom:12px !important;
+}
+
+/* .page-menu-btn,
+.page-menu-btn-inverse{
+    font-size: 16px;
+    min-width: 90px;
+    transition: 0.3s all ease;
+    -webkit-transition: 0.3s all ease;
+    -moz-transition: 0.3s all ease;
+    -o-transition: 0.3s all ease;
+    -ms-transition: 0.3s all ease;
+} */
+/* .page-menu-btn-inverse:hover{
+    background-color: #ffffff !important;
+    border:none;
+        color: #1E242A !important;
+        box-shadow: none;
+} */
+/* .page-menu-btn-inverse.active{
+    background-color: #ffffff !important;
+    border:none;
+        color: #1E242A !important;
+        font-weight: 500;
+    border: 3px solid transparent !important;
+    box-shadow: none;
+} */
+
+input {
+    background-color: white !important;
+    border-radius: 30px !important;
+    padding: 12px !important;
+}
+
+
+
+
+/* @media(max-width:767px) {
+    .profile-info-div { */
+        /* padding-top: 65px;
+        border-top-right-radius: 40px;
+        border-top-left-radius: 40px; */
+    /* }
+} */
+
+.link-body {
+    min-height: 100vh;
+}
+
+/* .widget-input{
+        border:3px solid rgba(255,255,255,0.5) !important;
+        color:
+    } */
+/*
+    .widget-input input::placeholder{
+          color:rgba(0,9,0,0.5) !important;
+    } */
+
+
+/* .widget-input input { */
+    /* border:none; */
+/* } */
+
+/* .widget-input input:focus,
+input.form-control {
+    box-shadow: none; */
+    /* border:none !important; */
+/* } */
+
+/* .text-block-divider {
+    background: #fff !important;
+} */
+
+/* .tiktok-video-thumbnail {
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 15px solid #ffffff;
+    border-radius: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 30px rgba(6, 18, 81, 0.1);
+} */
+
+/* .youtube-video-thumbnail {
+    min-width:300px;
+    min-height: 200px !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 15px solid #ffffff;
+    border-radius: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 30px rgba(6, 18, 81, 0.1);
+} */
+
+
+/* .social-links-div svg {
+    width: 26px !important;
+} */
+
+.text-block-main {
+    border-radius: 40px;
+}
+
+a.product-card-purchase-btn {
+    font-weight: 600
+}
+
+.product-card-a a.product-card-purchase-btn,
+.product-card-a .product-card-price-badge {
+    border-color: transparent !important;
+    background-color: #ffffff !important;
+    color: #1E242A !important;
+}
+
+/* .single-product-div a.product-card-purchase-btn,
+.single-product-div .product-card-price-badge {
+    border-color: transparent !important;
+    background-color: #212930;
+} */
+
+.come-from-modal.left .modal-dialog,
+.come-from-modal.right .modal-dialog {
+    position: fixed;
+    margin: auto;
+    width: 500px;
+    height: 100%;
+    -webkit-transform: translate3d(0%, 0, 0);
+    -ms-transform: translate3d(0%, 0, 0);
+    -o-transform: translate3d(0%, 0, 0);
+    transform: translate3d(0%, 0, 0);
+}
+
+.come-from-modal.left .modal-content,
+.come-from-modal.right .modal-content {
+    height: 90vh;
+    overflow-y: auto;
+    border-radius: 0px;
+    border-radius: 30px;
+    padding: 10px 15px !important;
+}
+
+.come-from-modal.left .modal-body,
+.come-from-modal.right .modal-body {
+    padding: 15px 15px 80px;
+}
+.come-from-modal.right.fade .modal-dialog {
+    right: 2%;
+    -webkit-transition: opacity 0.3s linear, right 0.3s ease-out;
+    -moz-transition: opacity 0.3s linear, right 0.3s ease-out;
+    -o-transition: opacity 0.3s linear, right 0.3s ease-out;
+    transition: opacity 0.3s linear, right 0.3s ease-out;
+}
+
+.come-from-modal.right.fade.in .modal-dialog {
+    right: 0;
+}
+
+#checkoutModal .modal-body h4{
+    font-weight: 600;
+}
+.cart-details img{
+    border-radius: 10px;
+}
+.cart-details p{
+    color: #5B5B5B !important;
+    font-weight: 500;
+}
+.cart-details strong{
+    color: #5B5B5B !important;
+    font-weight: 700;
+}
+#checkoutModal .up-in-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px;
+  border-radius: 7px;
+  color: #5B5B5B;
+  background: #f1f1f1;
+}
+#checkoutModal .up-in-toggle label {
+  display: inline-block;
+  width: 60px;
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 6px 16px;
+  text-align: center;
+  width: 50%;
+  float: left;
+  color: #5B5B5B;
+  transition: all 0.1s ease-in-out;
+}
+#checkoutModal .up-in-toggle label:hover {
+  cursor: pointer;
+}
+
+#checkoutModal .up-in-toggle input {
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+  flex-basis: auto;
+}
+#checkoutModal .up-in-toggle input:checked + label {
+  background: #ffffff;
+  font-weight: 500;
+  box-shadow: 0px 4px 10px rgba(5, 2, 24, 0.06);
+}
+
+#checkoutModal .up-in-toggle label:first-of-type {
+  border-radius: 7px;
+}
+
+#checkoutModal .up-in-toggle label:last-of-type {
+  border-radius: 7px;
+  
+}
+
+#checkoutModal input.form-control, #checkoutModal textarea.form-control{
+    border-radius: 14px !important;
+    border: 1px solid #D6D6D6 !important;
+    padding: 8px 15px !important;
+    font-weight: 500 !important;
+}
+#checkoutModal input.form-control:focus, #checkoutModal textarea.form-control:focus{
+    color: #5b5b5b !important;
+}
+#checkoutModal input.form-control::placeholder, #checkoutModal textarea.form-control::placeholder{
+    color: #8991A8 !important;
+    font-weight:500 !important;
+}
+.btn-purchase-block{
+    border-radius: 14px !important;
+    color: white;
+}
+#checkoutModal small{
+    color: #8991A8 !important;
+}
+#checkoutModal .modal-footer{
+    border: none !important;
+    display: flex;
+    /* padding:10px 10%; */
+    align-items: center;
+    justify-content: center;
+}
+#checkoutModal .modal-content{
+    overflow: hidden;
+    padding-right: 5px !important;
+}
+.modal-content-indiv{
+    overflow-y: auto;
+}
+.modal-content-indiv::-webkit-scrollbar {
+  width: 0.25em;
+}
+.modal-content-indiv::-webkit-scrollbar-thumb {
+  background-color: #dfdfdf;
+}
+.link-content{
+    padding-bottom: 100px;
+}
+.page-footer{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    bottom: 0;
+    left: 0;
+    padding: 30px 0;
+    transition: 0.6s all ease;
+}
+.accordion-body  {
+    background-color: #1e232a !important;
+    color:  #ffffff !important;
+    border-color: #1e232a !important;
+}
+ /* .contact-accordion-button,.contact-form-submit-btn{
+    color:   #1e232a !important;
+    background-color:#ffffff !important;
+}
+
+.contact-accordion-button svg path{
+    stroke: #1e232a !important;
+}
+
+.contact-me{
+    color: #ffffff !important;
+}
+.contact-textarea{
+    border-color: #ffffff !important;
+    background-color: #1e232a !important;
+    color: #ffffff !important;
+    border-width: 3px !important;
+}
+.contact-textarea::placeholder{
+    color: #ffffff !important;
+}
+.contact-textarea.form-control:focus {
+    color: #ffffff !important;
+    background-color: transparent !important;
+} */
+/* .contact-form-submit-btn{
+    color:   #1e232a !important;
+    background-color:#ffffff !important;
+}
+.contact-form-submit-btn svg path{
+    stroke: #1e232a !important;
+} */
+.content-text a{
+    color: #ffffff;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.product-content-divider {
+    background: #ffffff !important;
+    opacity: 0.2;
+}
+.product-content-image{
+    border: 2px solid #ffffff;
+}
+
+    body{
+    font-family: 'GT Walsheim Pro';
+}
+.mt-0{
+    margin-top: 0 !important; 
+}
+.main-bio-section{
+    width: 100%;
+    position: relative;
+    display: flex;
+    /* background-color: #33362f; */
+    /* border-radius: 20px 20px 0 0; */
+    background-color: #000000 !important;
+}
+.user-area{
+    width: 30%;
+    height: 100vh;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    position: sticky;
+    top: 0;
+}
+
+.user_profile_pic{
+    box-shadow: 0 0 20px #ffffff58;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;    
+}
+.user_profile_pic>img{
+    width: 100%;
+}
+.user-name{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.1em;
+    margin-top: 20px;
+    color:#ffffff !important;
+}
+.user-descrip{
+    font-style: normal;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.3em;
+    color:#ffffff !important;
+}
+.social-links-user{
+    display: flex;
+    flex-wrap:wrap; 
+    align-items: center;
+    justify-content: flex-start;
+    gap: 7px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.social-links-u{
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s ease-out !important;
+    width: 40px;
+    height: 40px;
+    /* background-color: #585858;
+    border: 1px solid rgba(255,255,255,.15); */
+    position: relative;
+     background-color: #ffffff;
+    /* border:1px solid #ffffff; */
+}
+.social-links-u svg path {
+    fill:#1E242A !important;
+}
+/* .social-links-u svg path{
+    stroke:#ffffff;
+} */
+.social-links-u:hover{
+    opacity: 0.5;
+    /* filter: invert(); */
+    /* border: 1px solid #ffffff;
+    background-color: #000000; */
+    /* background-color: #ffffff; */
+}
+.promo-u{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    /* font-family: 'GT Walsheim Pro'; */
+    font-weight: 500;
+    gap: 10px;
+    font-size: 14px;
+    line-height: 14px;
+    background-color: #000;
+    border-radius: 100px;
+    padding: 13px 20px 14px;
+}
+.content-area{
+    width:70%;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* max-width: 800px; */
+}
+.switch-button-area{
+    max-width: 800px;
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.switch-button.active {
+    background-color: #1e232a !important;
+    border:none;
+}
+.switch-button{
+    text-align: center;
+    /* color: #FFF; */
+    /* font-family: 'GT Walsheim Pro'; */
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 7px 18px;
+    border-radius: 36px;
+    transition: 0.3s;
+    cursor: pointer;
+    color:#ffffff;
+}
+.switch-button:not(.active):hover{
+    opacity: 0.5;
+}
+.cont-circle-area{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.expadd-20{
+   padding-left: 20px;
+}
+.cont-circle-area>span{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-decoration: none;
+    color: #ffffff !important;;
+    width: 80%;
+    text-wrap: wrap;
+    display: inline-block;
+    word-break: break-word;
+    line-height: 1.5;
+}
+.con-circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    z-index: 99;
+    width: 40px;
+    height: 40px;
+    /* background-color: #585858; */
+    /* border: 1px solid #ffffff; */
+    position: relative;
+    background-color: #ffffff;
+}
+/*  */
+.next-arrow svg path,.con-circle svg path{
+    stroke: #1E242A;
+}
+.play-icon svg path{
+    stroke: none;
+    fill: #1E242A !important;
+}
+.contact-area{
+    max-width: 800px;
+    width: 100%;
+}
+.social-area{
+    max-width: 800px;
+    width: 100%;
+}
+.links-area{
+    position: relative;
+    max-width: 800px;
+    width: 100%;
+}
+.p_l-24{
+    padding-left: 47px;
+}
+.position-relative{
+    position: relative;
+    max-width: 800px;
+    width: 100%;
+}
+.link-slide{
+
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+.link-slide::-webkit-scrollbar{
+    display: none;
+}
+.link-box{
+    width: fit-content;
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    padding: 0 20px 0 0;
+    /* max-width: 600px; */
+}
+.link-cards{
+    width: 275px !important;
+    border-radius: 24px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: 0.3s ease-in-out !important;
+}
+.link-cards:hover{
+    transform: translateY(-1%);
+}
+.card-banner-image{
+    width: 275px;
+    height: 156px;
+}
+.card-banner-image>img{
+    width: 100%;
+    
+}
+.card-cont{
+    height: 300px;
+    margin-top: -6.5rem;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    padding: 20px;
+
+}
+
+.cont-box-card>h2{
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.cont-box-card>p{
+
+    color: #e4f0c2;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+.cont-black>h2{
+    color: #000;
+}
+.cont-black>p{
+    color: #000;
+}
+.visit-link{
+    margin-top: 20px;
+    width: fit-content;
+    padding: 6px 15px;
+    background-color: #fff;
+    border-radius: 56px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #000;
+    mix-blend-mode: normal;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+}
+.visit-link2{
+    width: fit-content;
+    height: 30px;
+    background-color: #2c2c2c;
+    border-radius: 30px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    margin-right: 0;
+    padding-left: 18px;
+    padding-right: 18px;
+    text-decoration: none;
+    display: flex;
+    color: white;
+    font-weight: 500;
+    font-size:14px;
+}
+.text-yellow{
+    color: #ffc508;
+}
+.next-arrow{
+    /* background: #1A1A1A; */
+    position: absolute;
+    top: 50%;
+    z-index: 99;
+    width: 40px;
+    height: 40px;
+    background-color: #585858;
+    /* border: 1px solid rgba(255,255,255,.15); */
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-right: 7px;
+    display: flex;
+    background-color: #ffffff;
+    /* border:1px solid #ffffff; */
+}
+.left-arrow{
+    left: 0px;
+    cursor: pointer;
+}
+.right-arrow{
+    right: 0px;
+    cursor: pointer;
+}
+.fade-left{
+    background-image: linear-gradient(-90deg,rgba(52,54,47,0),#000000);
+    width: 100px;
+    height: 360px;
+    position: absolute;
+    left: 0;
+    z-index: 3;
+    bottom: 0;
+}
+.fade-right{
+    background-image: linear-gradient(90deg,rgba(52,54,47,0),#000000);
+    width: 100px;
+    height: 360px;
+    position: absolute;
+    right: 0;
+    z-index: 3;
+    bottom: 0;
+}
+.banner-box{
+    width: 100%;
+    border-radius: 24px;
+    /* background: #292b26; */
+    background: #1e232a;
+    padding: 24px 22px;
+    margin-top: 20px;
+    }
+.inp-area{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 21px;
+}
+.inp-area>input{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 15px 18px;
+    border-radius: 48px;
+    background: #33362F;
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 106.1%;
+}
+.inp-area>input::placeholder{
+    /* color: white; */
+    font-weight: 500;
+}
+.message-box{
+    margin-top: 15px;
+}
+.message-box>textarea {
+    width: 100%;
+    border-radius: 21px;
+    /* background: #33362F; */
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+.message-box>textarea::placeholder{
+    color: #ffffff !important;
+}
+.sub-btn{
+    border: none;
+    outline: none;
+    border-radius: 56px;
+    background: #FFF;
+    color: #292B26;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: inline-flex;
+    height: 30px;
+    padding: 6px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 21px;
+}
+.para-cont{
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.inp-area2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    margin-top: 21px;
+}
+.inp-area2>input{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 0px 18px;
+    border-radius: 48px;
+    background-color: #000000 !important;
+    color: #ffffff;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 106.1%;
+    height: 50px;
+    /* font-family: 'GT Walsheim Pro'; */
+    /* background: transparent; */
+    /* border: 3px solid #ffffff !important; */
+}
+.inp-area2 input::placeholder,
+.inp-area2 input{
+    color: #ffffff !important;
+}
+/* .inp-area2>input::placeholder{
+    color: white;
+    font-weight: 500;
+} */
+.sub-btn2{
+    border:none;
+    /* color: #fff; */
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    width: fit-content;
+    height: 45px;
+    /* background-color: #34362f; */
+    border-radius: 45px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    text-decoration: none;
+    display: flex;
+    /* font-family: 'GT Walsheim Pro'; */
+    background-color: #000000 !important;
+    color:#ffffff !important;
+    border:none;
+    /*     color: #1E242A !important;
+     */
+}
+.sub-btn2 img{
+        filter: invert(0%)
+    }
+.mt-20{
+    margin-top: 20px;
+}
+.banner-box2{
+    width: 100%;
+    border-radius: 24px;
+    background: #292B26;
+    padding: 12px;
+    margin-top: 36px;
+    display: flex;
+    align-items: center;
+    gap: 28px;
+}
+.best-link{
+    width: 100%;
+    max-width: 800px;
+    /* background-color: #292b26; */
+    border-radius: 24px;
+    gap: 15px;
+    align-items: center;
+    padding: 12px;
+    text-decoration: none;
+    transition: all .2s;
+    display: flex;
+    overflow: hidden;
+    margin-top: 20px;
+    background: #1e232a;
+    color: #ffffff;
+    }
+.best-link:hover{
+    transform: scale(1.01);
+    /* background-color: #1d1f1c; */
+}
+a:hover{
+    text-decoration: none;   
+    color: #ffffff;
+}
+.visit-link {
+    color: #000000;
+}
+.banner-img{
+    width: 150px;
+    min-width: 150px;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.banner-img>img{
+   width: 100%;
+}
+.banner-box2_right>h2{
+    color: #FFF;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: left;
+}
+.banner-box2_right>p{
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 7px;
+    text-align: left;
+    width: 305px;
+}
+.banner-box2_right>a{
+    border-radius: 56px;
+    background: #FFF;
+    display: inline-flex;
+    padding: 6px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    flex-shrink: 0;
+    text-decoration: none;
+    color: #000000;
+    margin-top: 15px;
+}
+.playbutton{
+    margin-left: 24px;
+}
+.tiktok_video{
+    width: 303px;
+    height: 539px;
+    background-color: red;
+    border-radius: 17px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tiktok_video>img{
+    height: 100%;
+    pointer-events:none;
+}
+.extra-height{
+    height: 545px;
+}
+.video-play{
+    position: absolute;
+}
+.nopadding{
+    padding: 0 0 !important;
+    padding-bottom: 15px !important;
+    overflow: hidden !important;
+}
+.padding-24{
+    padding: 20px;
+}
+.textbox {
+    min-height: 59px;
+    width: 100%;
+    max-width: 800px;
+    /* background-color: #292b26; */
+    border-radius: 30px;
+    /* flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 8px 20px;
+    /* display: flex; */
+    background-color: #1e232a !important;
+    color: #ffffff;
+    }
+.link-description {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+.youtube-videos{
+    width: 100%;
+    height: auto;
+    max-width: 800px;
+    background-color: #0d0101;
+    border-radius: 30px;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.youtube-videos>img{
+    width: 100%;
+    border-radius: 20px 20px 0 0 ;
+}
+.youtube-videos>span{
+    color: #e4f0c2;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-decoration: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.div-block-535 {
+    width: 100%;
+    height: auto;
+    background-color: rgba(41,43,38,0);
+    background-image: linear-gradient(rgba(80,42,37,0),#0d0101 25%);
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 20px;
+    display: flex;
+    position: absolute;
+    top: auto;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+}
+.zaapheading {
+    /* color: #e4f0c2; */
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-decoration: none;
+}
+.spaceer-10 {
+    width: 100%;
+    height: 15px;
+}
+.link-button {
+    width: auto;
+    height: 30px;
+    background-color: #2c2c2c;
+    border-radius: 30px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    margin-right: 0;
+    padding-left: 18px;
+    padding-right: 18px;
+    text-decoration: none;
+    display: flex;
+    color: white;
+}
+.color-purple{
+    background-color: #7b30e0;
+}
+
+
+@media (max-width:991px) {
+    .main-bio-section {
+        flex-direction: column;
+    }
+    .user-area {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+        justify-content: center;
+        height: 100%;
+        position: static;
+    }
+    .user-detail-area{
+        max-width: 800px;
+        width: 100%;
+    }
+    .content-area {
+        width: 100%;
+    }
+    .fade-right, .fade-left {
+        width: 30px;
+    }
+}
+@media (max-width:767px) {
+    .next-arrow{
+        display: none !important;
+    }
+    .link-slide {
+        margin-right: -20px;
+        margin-left: -20px;
+        padding: 0 20px;
+    }
+    .fade-right,.fade-left{
+        display: none !important;
+    }
+}
+@media (max-width:600px) {
+    .content-area {
+        padding: 20px;
+    }
+}
+@media (max-width:660px) {
+    .banner-box2 {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .banner-img {
+        width: 100%;
+        height: auto;
+    }
+    .banner-img>img{
+        width: 100%;
+        height: auto;
+    }
+    .inp-area2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        margin-top: 21px;
+       flex-wrap: wrap;
+    }
+    .inp-area2>input {
+        flex-basis: 48%;
+    }
+    .sub-btn {
+        width: 100%;
+        background: #33362F;
+        color: #fff;
+        height: 45px;
+    }
+    .sub-btn>svg>path{
+        fill: #fff;
+    }
+    .sub-btn2 {
+        width: 100%;
+    }
+}
+@media (max-width:530px) {
+  .user_profile_pic {
+        width: 114px;
+        height: 114px;
+    }
+    .user-name {
+        font-size: 25px;
+        text-align: center;
+    }
+    .user-descrip {
+        font-size: 14px;
+        max-width: 300px;
+        width: 100%;
+        text-align: center;
+    }
+    .cont-box-card>h2 {
+        font-size: 18px;
+    }
+    .banner-box {
+        padding: 12px;
+    }
+    .best-link {
+        flex-direction: column;
+        padding:0;
+        gap: 0;
+    }
+    .best-link-div {
+        flex-direction: column;
+        align-items: flex-start !important;
+    }
+    .visit-single-link{
+        text-align: left;
+    }
+    .best-single-link{
+        align-items: flex-start !important;
+    }
+    .singlelinkcontent .zaapheading,.singlelinkcontent .link-description{
+        text-align: left;
+    }
+    .banner-img {
+        border-radius: 0;
+    }
+    .user-area {
+        padding: 20px;;
+    }
+    .user-detail-area{
+        display: flex !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+        align-items: center !important
+    }
+    .social-links-user{
+        justify-content: center !important;
+    }
+    .link-description {
+        margin-bottom: 0;
+    }
+    .singlelinkcontent {
+        padding: 15px;
+        /* background: linear-gradient(0deg, rgb(255 98 62)60%, transparent); */
+        padding-top: 6rem;
+        margin-top: -5rem;
+        z-index: 1;
+    }
+}
+@media (max-width:500px) {
+    .forwebpromo{
+        display: none;
+    }
+    .footer-area,.footer-area .forwebpromo{
+        display: flex !important;
+    }
+    
+}
+@media (max-width:420px) {
+    .inp-area2>input {
+        flex-basis: 100%;
+    }
+    .inp-area {
+        flex-wrap: wrap;
+    }
+    .fade-right, .fade-left {
+        width: 20px;
+    }
+}
+.new-bio-page-widgets-width{
+    max-width: 800px;
+    width: 100%;
+}
+.best-single-link{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.best-link-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.visit-single-link{
+    padding-left: 14px;
+    padding-bottom: 14px;
+}
+</style>
+    <link href="https://zaap.bio/assets/page/css/animate.min.css" rel="stylesheet" media="screen">
+    <link href="https://zaap.bio/assets/page/css/growl-notification.min.css" rel="stylesheet" media="screen">
+
+
+    <link rel="canonical" href="https://zaap.bio/ui.johnson " />
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <!-- Include Mobiscroll JS and CSS files -->
+        <link rel="stylesheet" href="https://cdn.mobiscroll.com/5.7.2/css/mobiscroll.min.css">
+
+    <style>
+
+    </style>
+
+        
+            
+    </head>
+
+    
+<body>
+    <section class="main-bio-section">
+        <div class="user-area pb-0">
+            <div class="user-detail-area">
+                <div class="user_profile_pic">
+                    <img src="https://images.zaap.ai/public/bcb1d75e4c39ad1b4ae24ce1430381a08e1b7336f0080e88ede8.png" alt="">
+                </div>
+                <h2 class="user-name">Sanket D Avaralli
+                                    </h2>
+                <p class="user-descrip">Data Scientist/Software Developer </p>
+                <div class="social-links-user">
+                                                                                                                                                                                                                                                                                                    <span class="d-inline-flex align-items-center justify-content-center">
+                                <a class="social-links-u" href="https://instagram.com/ui.johnson"
+                                    target="_blank"><svg width="20"100%" height="22"100%" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-0.499995,0)">
+        <path d="M0.5,10C0.5,12.689 0.532,14.03 0.91,15.111C0.91,15.111 0.91,15.111 0.91,15.111C1.643,17.208 3.292,18.857 5.389,19.59C5.389,19.59 5.389,19.59 5.389,19.59C6.47,19.968 7.811,20 10.5,20C13.189,20 14.53,19.968 15.611,19.59C15.611,19.59 15.611,19.59 15.611,19.59C17.708,18.857 19.357,17.208 20.09,15.111C20.09,15.111 20.09,15.111 20.09,15.111C20.469,14.03 20.5,12.689 20.5,10C20.5,7.311 20.468,5.97 20.09,4.889C20.09,4.889 20.09,4.889 20.09,4.889C19.357,2.792 17.708,1.143 15.611,0.41C15.611,0.41 15.611,0.41 15.611,0.41C14.53,0.032 13.189,0 10.5,0C7.811,0 6.47,0.032 5.389,0.41C3.292,1.143 1.643,2.792 0.91,4.889C0.532,5.97 0.5,7.311 0.5,10ZM2.5,10C2.5,7.661 2.468,6.49 2.797,5.55C2.797,5.55 2.797,5.55 2.797,5.55C3.33,4.027 4.527,2.83 6.05,2.297C6.05,2.297 6.05,2.297 6.05,2.297C6.99,1.968 8.161,2 10.5,2C12.839,2 14.01,1.968 14.95,2.297C16.473,2.83 17.67,4.027 18.203,5.55C18.532,6.49 18.5,7.661 18.5,10C18.5,12.339 18.532,13.51 18.203,14.451C17.67,15.973 16.473,17.17 14.951,17.703C14.01,18.032 12.839,18 10.5,18C8.161,18 6.99,18.032 6.05,17.703C4.527,17.17 3.33,15.973 2.797,14.451C2.468,13.51 2.5,12.339 2.5,10ZM15.267,9.293C15.267,9.293 15.267,9.293 15.267,9.293C15.115,8.27 14.638,7.324 13.907,6.593C13.907,6.593 13.907,6.593 13.907,6.593C13.176,5.862 12.23,5.385 11.207,5.233C10.204,5.085 9.18,5.256 8.281,5.723C8.281,5.723 8.281,5.723 8.281,5.723C7.381,6.19 6.651,6.928 6.196,7.834C6.196,7.834 6.196,7.834 6.196,7.834C5.74,8.739 5.581,9.765 5.742,10.766C5.903,11.766 6.376,12.691 7.093,13.407C7.809,14.124 8.734,14.597 9.734,14.758C9.734,14.758 9.734,14.758 9.734,14.758C10.735,14.919 11.761,14.76 12.666,14.304C12.666,14.304 12.667,14.304 12.667,14.304C13.572,13.849 14.31,13.119 14.777,12.219C15.244,11.32 15.415,10.296 15.267,9.293ZM13.288,9.586C13.375,10.173 13.275,10.772 13.002,11.298C13.002,11.298 13.002,11.298 13.002,11.298C12.729,11.825 12.297,12.251 11.767,12.518C11.238,12.784 10.638,12.877 10.052,12.783C9.467,12.689 8.926,12.412 8.507,11.993C8.088,11.574 7.811,11.033 7.717,10.448C7.717,10.448 7.717,10.448 7.717,10.448C7.623,9.862 7.716,9.262 7.982,8.733C8.249,8.203 8.675,7.771 9.202,7.498C9.728,7.225 10.327,7.125 10.913,7.212C10.913,7.212 10.913,7.212 10.913,7.212C11.287,7.267 11.644,7.397 11.963,7.59C12.154,7.707 12.333,7.846 12.493,8.007C12.921,8.434 13.2,8.988 13.288,9.586L13.288,9.586ZM15.484,3.876C16.156,3.876 16.702,4.422 16.702,5.095C16.702,5.767 16.156,6.313 15.484,6.313C14.811,6.313 14.265,5.767 14.265,5.095C14.265,4.422 14.811,3.876 15.484,3.876Z" style="fill:rgb(48,58,71);"/>
+    </g>
+</svg></a>
+                            </span>
+                                                                                                <span class="d-inline-flex align-items-center justify-content-center">
+                                <a class="social-links-u" href="https://twitter.com/uijohnson"
+                                    target="_blank"><svg width="20"100%" height="22"100%" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-0.0204073,-8.53984e-05)">
+        <path d="M8.563,4.807C6.786,4.601 5.434,3.854 4.122,2.378C3.418,1.585 2.176,1.679 1.643,2.596C0.737,4.155 -0.993,8.018 0.806,11.139C1.36,12.101 2.243,13.011 3.607,13.757C2.675,14.244 1.768,14.637 1.199,14.872C0.158,15.302 0.129,16.78 1.157,17.243C6.275,19.548 11.322,18.97 14.698,16.546C18.017,14.163 19.796,9.992 18.472,4.864C19.053,4.204 19.527,3.458 19.877,2.655C19.877,2.655 19.877,2.655 19.877,2.655C20.442,1.36 19.047,0.162 17.802,0.829C17.424,1.032 17.033,1.208 16.632,1.359C15.704,0.451 14.636,0.047 13.597,0.004C11.056,-0.101 8.622,2.053 8.563,4.807ZM17.185,3.286C17.021,3.493 16.844,3.69 16.655,3.877C16.392,4.136 16.293,4.52 16.399,4.875C17.714,9.282 16.346,12.9 13.531,14.921C10.996,16.742 7.351,17.267 3.536,16.023C4.444,15.593 5.485,15.047 6.368,14.448C6.682,14.235 6.848,13.862 6.797,13.485C6.745,13.109 6.485,12.794 6.125,12.673C4.247,12.04 3.126,11.159 2.539,10.141C1.878,8.993 1.913,7.709 2.169,6.571C2.378,5.641 2.739,4.8 3.061,4.171C4.87,6.021 6.79,6.816 9.426,6.865C10.177,6.88 10.753,6.187 10.614,5.449C10.614,5.449 10.614,5.449 10.614,5.449C10.255,3.55 11.836,1.933 13.514,2.002C14.23,2.032 14.949,2.389 15.55,3.14C15.805,3.458 16.228,3.59 16.619,3.472C16.809,3.415 16.998,3.353 17.185,3.286Z" style="fill:rgb(48,58,71);"/>
+    </g>
+</svg></a>
+                            </span>
+                                                                                                <span class="d-inline-flex align-items-center justify-content-center">
+                                <a class="social-links-u" href="https://tiktok.com/@uijohnson"
+                                    target="_blank"><svg width="20"24" height="22"23" viewBox="0 0 32 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M16.5059 3V2C15.9884 2 15.5564 2.39483 15.51 2.91025L16.5059 3ZM21.1071 3H22.1071C22.1071 2.44772 21.6594 2 21.1071 2V3ZM12.0159 17.0011L12.2125 17.9816C12.6797 17.8879 13.0159 17.4776 13.0159 17.0011H12.0159ZM12.0159 12.3175H13.0159C13.0159 12.0372 12.8983 11.7698 12.6917 11.5804C12.4851 11.391 12.2085 11.297 11.9292 11.3213L12.0159 12.3175ZM21.1071 12.491L21.6533 11.6533C21.3459 11.4529 20.9534 11.4369 20.6308 11.6117C20.3081 11.7865 20.1071 12.124 20.1071 12.491H21.1071ZM27.6071 14.1012L27.6969 15.0972C28.2123 15.0507 28.6071 14.6187 28.6071 14.1012H27.6071ZM27.6071 9.5H28.6071C28.6071 8.94772 28.1594 8.5 27.6071 8.5V9.5ZM16.5059 4H21.1071V2H16.5059V4ZM17.4643 3.92857C17.4643 3.64556 17.477 3.36579 17.5019 3.08975L15.51 2.91025C15.4797 3.24588 15.4643 3.58556 15.4643 3.92857H17.4643ZM15.4643 3.92857V13.1544H17.4643V3.92857H15.4643ZM15.4643 13.1544V20.6429H17.4643V13.1544H15.4643ZM15.4643 20.6429C15.4643 22.1419 14.2491 23.3571 12.75 23.3571V25.3571C15.3536 25.3571 17.4643 23.2465 17.4643 20.6429H15.4643ZM12.75 23.3571C11.2509 23.3571 10.0357 22.1419 10.0357 20.6429H8.03571C8.03571 23.2465 10.1464 25.3571 12.75 25.3571V23.3571ZM10.0357 20.6429C10.0357 19.3286 10.9708 18.2305 12.2125 17.9816L11.8194 16.0206C9.66156 16.4532 8.03571 18.357 8.03571 20.6429H10.0357ZM13.0159 17.0011V12.3175H11.0159V17.0011H13.0159ZM11.9292 11.3213C7.1453 11.7376 3.39286 15.7515 3.39286 20.6429H5.39286C5.39286 16.7979 8.3431 13.6409 12.1026 13.3137L11.9292 11.3213ZM3.39286 20.6429C3.39286 25.8107 7.58219 30 12.75 30V28C8.68676 28 5.39286 24.7061 5.39286 20.6429H3.39286ZM12.75 30C17.9178 30 22.1071 25.8107 22.1071 20.6429H20.1071C20.1071 24.7061 16.8132 28 12.75 28V30ZM22.1071 20.6429V12.491H20.1071V20.6429H22.1071ZM26.6786 13.1429C24.8229 13.1429 23.0981 12.5953 21.6533 11.6533L20.561 13.3287C22.3208 14.4761 24.4233 15.1429 26.6786 15.1429V13.1429ZM27.5174 13.1053C27.2414 13.1301 26.9616 13.1429 26.6786 13.1429V15.1429C27.0216 15.1429 27.3613 15.1274 27.6969 15.0972L27.5174 13.1053ZM26.6071 9.5V14.1012H28.6071V9.5H26.6071ZM26.6786 10.5H27.6071V8.5H26.6786V10.5ZM20.1071 3.92857C20.1071 7.55787 23.0493 10.5 26.6786 10.5V8.5C24.1538 8.5 22.1071 6.4533 22.1071 3.92857H20.1071ZM20.1071 3V3.92857H22.1071V3H20.1071Z" fill="#414863"/>
+            </svg></a>
+                            </span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+            </div>
+                            <a href="https://zaap.ai" class="promo-u forwebpromo">
+                    <span>Made with</span>
+                    <img src="https://zaap.bio/assets/zaap-logo-red-white.svg" width="70px" alt="">
+                </a>
+                    </div>
+        <div class="content-area pt-0">
+                    <div class="tab-content new-bio-page-widgets-width" id="tabs">
+            <div class="tab-pane active w-100" id="home">
+                                                            <div class="row links-slider-main mb-1 mt-1 ">
+    <div class="links-slider pt-0 pb-0">
+
+        
+        
+        
+        
+
+        
+        
+
+        <a href="https://www.figma.com/community/file/1225681083504291378"  class="best-link best-single-link" data-link-url="594974"   >
+        <div class="best-link-div" >
+            <div class="banner-img">
+                <img src="https://s3-alpha.figma.com/hub/file/3295819885/6bd86092-2172-4b68-a506-10d8b4695cc8-cover.png" alt="">
+            </div>
+            <div class="singlelinkcontent">
+                <div class="zaapheading">Landing page prototype</div>
+                <div class="link-description">Figma Community file -</div>
+            </div>
+        </div>
+        <div class="visit-single-link text-nowrap">
+            <div class="visit-link">
+                Get file here
+            </div>
+        </div>
+        </a>
+
+    </div>
+</div>
+                    
+
+                                                            <div class="row links-slider-main mb-1 mt-1 ">
+    <div class="links-slider pt-0 pb-0">
+
+        
+        
+        
+        
+
+        
+        
+
+        <a href="https://jtolubodun.gumroad.com/l/vsqwz"  class="best-link best-single-link" data-link-url="293106"   target="_blank"  >
+        <div class="best-link-div" >
+            <div class="banner-img">
+                <img src="https://imagedelivery.net/tqC70bVt8T6GtQUXNsa2-g/2e649150-a703-4486-d948-8bfa05fbf700/public" alt="">
+            </div>
+            <div class="singlelinkcontent">
+                <div class="zaapheading">20 4k Ultra Gradient Wallpapers</div>
+                <div class="link-description">A collection of 20 Ultra Gradient Wallpapers for desktop. These Ultra...</div>
+            </div>
+        </div>
+        <div class="visit-single-link text-nowrap">
+            <div class="visit-link">
+                Download now
+            </div>
+        </div>
+        </a>
+
+    </div>
+</div>
+                    
+
+                                                            <div class="row links-slider-main mb-1 mt-1 ">
+    <div class="links-slider pt-0 pb-0">
+
+        
+        
+        
+        
+
+        
+        
+
+        <a href="https://mega.nz/folder/iYMHCILb#ZjS-Pn6laru20zAgwrf_xQ"  class="best-link best-single-link" data-link-url="293109"   target="_blank"  >
+        <div class="best-link-div" >
+            <div class="banner-img">
+                <img src="https://imagedelivery.net/tqC70bVt8T6GtQUXNsa2-g/ee009ae9-b226-4430-f1ec-49fa7f0d6100/public" alt="">
+            </div>
+            <div class="singlelinkcontent">
+                <div class="zaapheading">Download Camtasia</div>
+                <div class="link-description">Download Camtasia and use for free.</div>
+            </div>
+        </div>
+        <div class="visit-single-link text-nowrap">
+            <div class="visit-link">
+                Download
+            </div>
+        </div>
+        </a>
+
+    </div>
+</div>
+                    
+
+                                                            <div class="position-relative mt-4">
+        <div class="links-area">
+            <div class="cont-circle-area expadd-20">
+                <div class="con-circle">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                        <path
+                            d="M10.9497 6.70711L6.70711 10.9497M7.41421 3.17157L8.12132 2.46447C10.0739 0.511845 13.2398 0.511845 15.1924 2.46447C17.145 4.41709 17.145 7.58291 15.1924 9.53553L14.4853 10.2426M3.17157 7.41421L2.46447 8.12132C0.511845 10.0739 0.511845 13.2398 2.46447 15.1924C4.41709 17.145 7.58291 17.145 9.53553 15.1924L10.2426 14.4853"
+                            stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </div>
+                <span>
+                    My Socials
+                </span>
+            </div>
+            <div>
+                <div class="link-slide folder-link-slider folder-link-slider-293113" data-id="293113">
+                                        <div class="fade-right folder-link-right-fade-293113"></div>
+                    <div class="fade-left folder-link-left-fade-293113"></div>
+                                        <div class="link-box">
+                                                                                <div class="link-cards"  style="background: #AA6676 ;"  >
+                                <a href="https://instagram.com/ui.johnson" data-link-url="293117"
+                                     target="_blank" >
+                                    <div class="card-banner-image">
+                                        <img src="https://imagedelivery.net/tqC70bVt8T6GtQUXNsa2-g/cade13fa-6ecd-453c-b6f5-4f82ff90ec00/public"
+                                            alt="">
+                                    </div>
+                                    <div class="card-cont" style="background: linear-gradient(180deg, rgba(255, 130, 74, 0.00) 0%, #AA6676 33.86%)">
+                                        <div class="cont-box-card">
+                                            <h2  style="color:#ffffff">Follow My Instagram</h2>
+                                            <p  style="color:#ffffff">Follow my instagram profile to see more of my content!</p>
+                                            <div class="visit-link text-nowrap">
+                                                Follow
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                                                <div class="link-cards"  style="background: #4876AE ;"  >
+                                <a href="https://twitter.com/uijohnson" data-link-url="293116"
+                                     target="_blank" >
+                                    <div class="card-banner-image">
+                                        <img src="https://imagedelivery.net/tqC70bVt8T6GtQUXNsa2-g/e57f3c2b-495a-4e57-8b05-b030bc298300/public"
+                                            alt="">
+                                    </div>
+                                    <div class="card-cont" style="background: linear-gradient(180deg, rgba(255, 130, 74, 0.00) 0%, #4876AE 33.86%)">
+                                        <div class="cont-box-card">
+                                            <h2  style="color:#ffffff">Follow My Twitter</h2>
+                                            <p  style="color:#ffffff">Follow my Twitter profile to see more of my content!</p>
+                                            <div class="visit-link text-nowrap">
+                                                Follow
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                                                <div class="link-cards"  style="background: #494549 ;"  >
+                                <a href="https://tiktok.com/@uijohnson" data-link-url="293115"
+                                     target="_blank" >
+                                    <div class="card-banner-image">
+                                        <img src="https://imagedelivery.net/tqC70bVt8T6GtQUXNsa2-g/9159a504-6fc4-465e-fe38-eec679bdf500/public"
+                                            alt="">
+                                    </div>
+                                    <div class="card-cont" style="background: linear-gradient(180deg, rgba(255, 130, 74, 0.00) 0%, #494549 33.86%)">
+                                        <div class="cont-box-card">
+                                            <h2  style="color:#ffffff">Follow My Tiktok</h2>
+                                            <p  style="color:#ffffff">Follow my Tiktok profile to see more of my content!</p>
+                                            <div class="visit-link text-nowrap">
+                                                Follow
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                                                <div class="link-cards"  style="background: #EEBDD1 ;"  >
+                                <a href="https://www.dribbble.com/uijohnson" data-link-url="293114"
+                                     target="_blank" >
+                                    <div class="card-banner-image">
+                                        <img src="https://imagedelivery.net/tqC70bVt8T6GtQUXNsa2-g/33129426-a9cf-4989-d7c1-9a01d4e17c00/public"
+                                            alt="">
+                                    </div>
+                                    <div class="card-cont" style="background: linear-gradient(180deg, rgba(255, 130, 74, 0.00) 0%, #EEBDD1 33.86%)">
+                                        <div class="cont-box-card">
+                                            <h2  style="color:#1E242A">Dribbble</h2>
+                                            <p  style="color:#1E242A"></p>
+                                            <div class="visit-link text-nowrap">
+                                                Discover
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                                                <div class="link-cards"  style="background: #1e232a ;"  >
+                                <a href="mailto:7NE5ylXvaG" data-link-url="293118"
+                                     target="_blank" >
+                                    <div class="card-banner-image">
+                                        <img src="themes/altum/assets/images/biolinks/images/image-21.png"
+                                            alt="">
+                                    </div>
+                                    <div class="card-cont" style="background: linear-gradient(180deg, rgba(255, 130, 74, 0.00) 0%, #1e232a 33.86%)">
+                                        <div class="cont-box-card">
+                                            <h2  style="color:#ffffff">Contact Me</h2>
+                                            <p  style="color:#ffffff">Drop me an email and I’ll be in touch. Let’s connect!</p>
+                                            <div class="visit-link text-nowrap">
+                                                Contact
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+                        <div class="next-arrow left-arrow folder-link-left-arrow folder-link-left-arrow-293113">
+                <svg xmlns="http://www.w3.org/2000/svg" width="15" height="11" viewBox="0 0 18 14" fill="none"
+                    transform="scale(-1, 1)">
+                    <path d="M1 7H17M17 7L11 1M17 7L11 13" stroke="white" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+
+            </div>
+            <div class="next-arrow right-arrow folder-link-right-arrow folder-link-right-arrow-293113">
+                <svg xmlns="http://www.w3.org/2000/svg" width="15" height="11" viewBox="0 0 18 14" fill="none">
+                    <path d="M1 7H17M17 7L11 1M17 7L11 13" stroke="white" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+            </div>
+                    </div>
+    </div>
+                    
+
+                                                                                
+
+                                                            <div class="banner-box new-bio-page-widgets-width">
+    <div class="cont-circle-area">
+        <div class="con-circle">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"
+                fill="none">
+                <path
+                    d="M14 6V11.5C14 12.8807 15.1193 14 16.5 14C18.6808 14 19 11.7332 19 10C19 5.02944 14.9706 1 10 1C5.02944 1 1 5.02944 1 10C1 14.9706 5.02944 19 10 19C11.0519 19 12.0617 18.8195 13 18.4879M14 10C14 12.2091 12.2091 14 10 14C7.79086 14 6 12.2091 6 10C6 7.79086 7.79086 6 10 6C12.2091 6 14 7.79086 14 10Z"
+                    stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </div>
+        <span>
+            <p class="mb-0">Join the community</p>
+            <p style="font-size: 16px">Enter your email to stay updated</p>
+        </span>
+
+    </div>
+    <form action="" id="emailwidget">
+        <div class="inp-area2">
+            <input type="text" name="name" placeholder="Name" required>
+            <input type="email"  name="email" placeholder="Email" required>
+            <button type="submit" class="sub-btn2">
+                Join 
+                <img src="https://zaap.bio/assets/page/images/contact-form-arrow.svg" alt="">
+            </button>
+        </div>
+    </form>
+</div>                    
+
+                
+                                                                                                                    </div>
+            <div class="tab-pane" id="posts">
+                <div class="posts-main mt-4 pt-3 ">
+                    
+                    <div class="post-card">
+                        <div class="skeleton">
+                        <div class="post-content">
+                            <div class="post-header">
+                                <div class="skeleton-line heading" style="width: 60%"></div>
+                                <div class="skeleton-line heading" style="width: 40%"></div>
+                            </div>
+                            <div class="post-text">
+                                <div class="skeleton-line" style="width: 90%"></div>
+                                <div class="skeleton-line" style="width: 100%"></div>
+                                <div class="skeleton-line" style="width: 35%"></div>
+                            </div>
+                    
+                            <div class="skeleton-img"></div>
+                    
+                        </div>
+                        </div>
+                    </div>
+                    
+
+                    <div class="post-card">
+                        <div class="skeleton">
+                        <div class="post-content">
+                            <div class="post-header">
+                                <div class="skeleton-line heading" style="width: 60%"></div>
+                                <div class="skeleton-line heading" style="width: 40%"></div>
+                            </div>
+                            <div class="post-text">
+                                <div class="skeleton-line" style="width: 90%"></div>
+                                <div class="skeleton-line" style="width: 100%"></div>
+                                <div class="skeleton-line" style="width: 35%"></div>
+                            </div>
+                    
+                            <div class="skeleton-img"></div>
+                    
+                        </div>
+                        </div>
+                    </div>
+
+
+                    <div class="post-card">
+                        <div class="skeleton">
+                        <div class="post-content">
+                            <div class="post-header">
+                                <div class="skeleton-line heading" style="width: 60%"></div>
+                                <div class="skeleton-line heading" style="width: 40%"></div>
+                            </div>
+                            <div class="post-text">
+                                <div class="skeleton-line" style="width: 90%"></div>
+                                <div class="skeleton-line" style="width: 100%"></div>
+                                <div class="skeleton-line" style="width: 35%"></div>
+                            </div>
+                    
+                            <div class="skeleton-img"></div>
+                    
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+                    <div class="footer-area d-none justify-content-center mb-2">
+                <a href="https://zaap.ai" class="promo-u forwebpromo">
+                    <span>Made with</span>
+                    <img src="https://zaap.bio/assets/zaap-logo-red-white.svg" width="70px" alt="">
+                </a>
+            </div>
+                
+
+        <div class="modal fade" id="create_tiktok_widget" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content" style="height:100%;overflow:hidden">
+                    <div class="modal-header" style="padding:0;padding-bottom:10px;">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <iframe scrolling="yes" src="" style="height:700px;width:auto;" id="tiktok_iframe"
+                        frameborder="0"></iframe>
+
+
+                </div>
+            </div>
+        </div>
+
+        
+
+        <div class="modal fade" id="youtube_play" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-xlarge" role="document">
+                <div class="modal-content" style="height:100%;overflow:hidden">
+                    <div class="modal-header" style="padding-right:5px;padding-bottom:10px;padding-top:10px">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <iframe style="min-height: 500px" id="youtube_iframe"src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+
+    
+
+        <div class="modal fade come-from-modal" id="postModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-md" style="max-width: 650px" role="document">
+                <div class="modal-content" style="border-radius: 20px;padding:0; overflow:hidden">
+                    <div class="modal-body" style="padding:0; overflow-y:auto; overflow-x:hidden">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+        <input type="hidden" id="url" name="url" value="https://zaap.bio/" />
+        <input type="hidden" name="global_token" value="d303e64f956b4524da5a4365dfafb91c" />
+        <input type="hidden" name="number_decimal_point" value="." />
+        <input type="hidden" name="number_thousands_separator" value="," />
+
+        <script>
+            /* Some global variables */
+            window.altum = {};
+            let global_token = document.querySelector('input[name="global_token"]').value;
+            let url = document.querySelector('input[name="url"]').value;
+            let decimal_point = document.querySelector('[name="number_decimal_point"]').value;
+            let thousands_separator = document.querySelector('[name="number_thousands_separator"]').value;
+        </script>
+
+        <script src="https://zaap.bio/assets/page/js/libraries/jquery.min.js?v=3.1"></script>
+        <script src="https://zaap.bio/assets/page/js/libraries/popper.min.js?v=3.1"></script>
+        <script src="https://zaap.bio/assets/page/js/libraries/bootstrap.min.js?v=3.1"></script>
+        <script src="https://zaap.bio/assets/page/js/main.js?v=3.1"></script>
+        <script src="https://zaap.bio/assets/page/js/functions.js?v=3.1"></script>
+
+        <script src="https://zaap.bio/assets/page/growl-notification/growl-notification.min.js"></script>
+
+        <script defer src="https://www.tiktok.com/embed.js"></script>
+        <script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
+
+        <script>
+            setTimeout(() => {
+                $(".link-content").css('min-height','calc(100vh - '+($(".profile-main").height()+80)+'px)');
+                $("footer").css('opacity','1');
+            }, 500);
+
+            $(".btn-tiktok-play").click(function() {
+                $("#create_tiktok_widget").modal('show');
+                $("#tiktok_iframe").attr('src', $(this).attr('data-url'));
+            });
+
+            $(document).on('click',".btn-youtube-play",function() {
+                $("#youtube_play").modal('show');
+                $("#youtube_iframe").attr('src','https://www.youtube.com/embed/'+$(this).attr('data-url'));
+            });
+
+            $("#create_tiktok_widget").on('hidden.bs.modal', function() {
+                $("#tiktok_iframe").attr('src', '');
+            });
+
+            $("#youtube_play").on('hidden.bs.modal', function() {
+                $("#youtube_iframe").attr('src', '');
+            });
+
+            $(document).ready(function() {
+
+                setTimeout(() => {
+                    $(".twitter-card").removeClass('loading-skeleton');
+                }, 5000);
+            });
+
+            if (window.innerWidth < 768) {
+                //     $('.links-slider').slick({
+                //   dots: false,
+                //   infinite: false,
+                //   speed: 300,
+                //   slidesToShow: 4,
+                //   arrows:false,
+                //   responsive: [
+                //     {
+                //       breakpoint: 1024,
+                //       settings: {
+                //         slidesToShow: 3,
+                //         slidesToScroll: 3,
+                //         infinite: true,
+                //         dots: false,
+                //       }
+                //     },
+                //     {
+                //       breakpoint: 767,
+                //       settings: {
+                //         slidesToShow: 2,
+                //         slidesToScroll: 2,
+                //       }
+                //     },
+                //     {
+                //       breakpoint: 500,
+                //       settings: {
+                //         slidesToShow: 1,
+                //         slidesToScroll: 1
+                //       }
+                //     }
+                //     // You can unslick at a given breakpoint now by adding:
+                //     // settings: "unslick"
+                //     // instead of a settings object
+                //   ]
+                // });
+            }
+        </script>
+        <script>
+            /* Internal tracking for biolink links */
+            $('[data-link-url]').on('click', event => {
+
+
+                let url = $(event.currentTarget).data('link-url');
+                $.ajaxSetup({
+                    "headers": {
+                        'X-CSRF-TOKEN': 'WeyqqO8ai8hPEIKBCeHcDbeNAALrQYDLFX8wW2gl'
+                    }
+                })
+                $.ajax({
+                    url: "https://zaap.bio/track-link",
+                    type: "POST",
+                    data: {
+                        url: url,
+                    },
+                });
+
+            });
+        </script>
+        <script>
+            /* Go over all mail buttons to make sure the user can still submit mail */
+            $(".subscribe-next-btn").click(function() {
+                if ($(this).parent().find('input').val() == '') {
+                    GrowlNotification.notify({
+                        description: "Email is required",
+                        type: "error",
+                        position: "top-right",
+                        closeTimeout: 3000
+                    });
+                    return;
+                } else {
+                    $(this).parent().addClass('d-none');
+                    $(this).parent().removeClass('d-flex');
+
+                    $(this).parent().next().addClass('d-flex');
+                    $(this).parent().next().removeClass('d-none');
+                }
+            });
+            $("#emailwidget").submit(function(e) {
+                e.preventDefault();
+
+                var subscription_email = $(this).find('input[name="email"]');
+                var subscription_name = $(this).find('input[name="name"]');
+                if (subscription_name.val() == '') {
+                    GrowlNotification.notify({
+                        description: "Name is required",
+                        type: "error",
+                        position: "top-right",
+                        closeTimeout: 3000
+                    });
+                    return false;
+                }
+                if (subscription_email.val() == '') {
+                    GrowlNotification.notify({
+                        description: "Email is required",
+                        type: "error",
+                        position: "top-right",
+                        closeTimeout: 3000
+                    });
+                    return false;
+                }
+                $.ajaxSetup({
+                    "headers": {
+                        'X-CSRF-TOKEN': 'WeyqqO8ai8hPEIKBCeHcDbeNAALrQYDLFX8wW2gl'
+                    }
+                })
+                // console.log("https://zaap.bio/ui.johnson");
+                $.ajax({
+                    url: "https://zaap.bio/ui.johnson",
+                    type: "POST",
+                    data: {
+                        subscription_email: subscription_email.val(),
+                        subscription_name: subscription_name.val()
+                    },
+                    dataType: "json",
+                    success: (data) => {
+
+                        // data = JSON.parse(data);
+                        if(data.error){
+                            GrowlNotification.notify({
+                                description: data.error,
+                                type: "error",
+                                position: "top-right",
+                                closeTimeout: 5000
+                            });
+                            return false;
+                        }
+
+                        GrowlNotification.notify({
+                                description: "Subscribed Successfully!",
+                                type: "success",
+                                position: "top-right",
+                                closeTimeout: 5000
+                            });
+                        subscription_email.val('');
+                        subscription_name.val('');
+                        return false;
+
+                    },
+                    error: ($xhr) => {
+                        var data = $xhr.responseJSON;
+                        // console.log(data.status_code);
+                        if (data.status_code != 200) {
+                            for (i in data.errors) {
+                                GrowlNotification.notify({
+                                    description: data.errors[i][0],
+                                    type: "error",
+                                    position: "top-right",
+                                    closeTimeout: 3000
+                                });
+                            }
+                        }
+                        return false;
+                    }
+                });
+            });
+            $('form[id^="mail_"]').each((index, element) => {
+                let link_id = $(element).find('input[name="link_id"]').val();
+                let is_converted = localStorage.getItem(`mail_${link_id}`);
+
+                if (is_converted) {
+                    /* Set the submit button to disabled */
+                    $(element).find('button[type="submit"]').attr('disabled', 'disabled');
+                }
+            });
+            /* Form handling for mail submissions if any */
+            $('form[id^="mail_"]').on('submit', event => {
+                let base_url = $('[name="url"]').val();
+                let link_id = $(event.currentTarget).find('input[name="link_id"]').val();
+                let is_converted = localStorage.getItem(`mail_${link_id}`);
+
+                if (!is_converted) {
+
+                    $.ajax({
+                        type: 'POST',
+                        url: `${base_url}link-ajax`,
+                        data: $(event.currentTarget).serialize(),
+                        success: (data) => {
+                            let notification_container = $(event.currentTarget).find(
+                                '.notification-container');
+
+                            if (data.status == 'error') {
+                                notification_container.html('');
+
+                                display_notifications(data.message, 'error', notification_container);
+                            } else if (data.status == 'success') {
+
+                                display_notifications(data.message, 'success', notification_container);
+
+                                setTimeout(() => {
+
+                                    /* Hide modal */
+                                    $(event.currentTarget).closest('.modal').modal('hide');
+
+                                    /* Remove the notification */
+                                    notification_container.html('');
+
+                                    /* Set the localstorage to mention that the user was converted */
+                                    localStorage.setItem(`mail_${link_id}`, true);
+
+                                    /* Set the submit button to disabled */
+                                    $(event.currentTarget).find('button[type="submit"]').attr(
+                                        'disabled', 'disabled');
+
+                                }, 1000);
+
+                            }
+                        },
+                        dataType: 'json'
+                    });
+
+                }
+
+                event.preventDefault();
+            });
+
+
+
+    $(document).on('submit', '#form_contact', function(e) {
+        e.preventDefault();
+        var email = $(this).find('input[name="email"]');
+        var name = $(this).find('input[name="name"]');
+        var phone = $(this).find('input[name="phone"]'); 
+        var message = $(this).find('textarea[name="message"]');
+        console.log(message);
+        var contact_form_id = $(this).find('input[name="contact_form_id"]');
+        var url = "https://zaap.bio/ui.johnson/contact-form-submit";
+                if (name.attr("data-required") && name.val() == '') {
+                    GrowlNotification.notify({
+                        description: "Name is required",
+                        type: "error",
+                        position: "top-right",
+                        closeTimeout: 3000
+                    });
+                    return false;
+                }
+                if (email.attr("data-required") && email.val() == '') {
+                    GrowlNotification.notify({
+                        description: "Email is required",
+                        type: "error",
+                        position: "top-right",
+                        closeTimeout: 3000
+                    });
+                    return false;
+                }
+                if (phone.attr("data-required") && phone.val() == '') {
+                    GrowlNotification.notify({
+                        description: "Phone is required",
+                        type: "error",
+                        position: "top-right",
+                        closeTimeout: 3000
+                    });
+                    return false;
+                }
+                if(message.attr("data-required") && message.val() == ''){
+                    GrowlNotification.notify({
+                            description: "Message is required",
+                            type: "error",
+                            position: "top-right",
+                            closeTimeout: 3000
+                        });
+                        return false;
+                }
+            $.ajaxSetup({
+                "headers": {
+                    'X-CSRF-TOKEN': 'WeyqqO8ai8hPEIKBCeHcDbeNAALrQYDLFX8wW2gl'
+                }
+            })
+            $.ajax({
+            url:url,
+            type: 'POST',
+            data: {
+                email: email.val(),
+                name:  name.val(),
+                phone: phone.val(),
+                message: message.val(),
+                contact_form_id: contact_form_id.val(),
+            },
+            success: (data) => {
+                GrowlNotification.notify({
+                    description: "Form Submitted Successfully!",
+                    type: "success",
+                    position: "top-right",
+                    closeTimeout: 5000
+                });
+                email.val('');
+                name.val('');
+                phone.val('');
+                message.val('');
+                return false;
+                },
+            error: ($xhr) => {
+                        var data = $xhr.responseJSON;
+                        // console.log(data.status_code);
+                        if (data.status_code != 200) {
+                            for (i in data.errors) {
+                                GrowlNotification.notify({
+                                    description: data.errors[i][0],
+                                    type: "error",
+                                    position: "top-right",
+                                    closeTimeout: 3000
+                                });
+                            }
+                        }
+                        return false;
+                    }
+        });
+        });
+
+        $(".contact-accordion-button").click(function(){
+        $(this).next().slideDown(500);
+        setTimeout(() => {
+            $(this).remove();
+        }, 500);
+        });
+
+        var postsLoaded = false;
+        $(document).ready(function() {
+        if (window.location.hash  == '#posts') {
+        $('.container.animate__animated.animate__fadeIn').addClass('contain')
+        }
+        else if (window.location.hash == '#home'){
+            
+            $('.container.animate__animated.animate__fadeIn').removeClass('contain')
+        }
+        // Hide all tab content except the active tab
+        $(".tab-content .tab-pane").not(".active").hide();
+
+        // Handle tab click event
+        $(".tab").click(function() {
+        var tabId = $(this).attr("data-value");
+        showTab(tabId);
+        window.location.hash = tabId;
+        if (tabId == '#posts') {
+        $('.container.animate__animated.animate__fadeIn').addClass('contain')
+        }
+        else if (tabId == '#home'){
+            $('.container.animate__animated.animate__fadeIn').removeClass('contain')
+        }
+        });
+
+        });
+
+        function showTab(tabId) {
+        $(".tab").removeClass("active");
+        $('a[data-value="' + tabId + '"]').addClass("active");
+        $(".tab-content .tab-pane").hide();
+        $(tabId).show();
+
+        if (tabId === "#posts" && !postsLoaded && 0 > 0) {
+            loadPosts();
+        }
+        }
+
+        function loadPosts() {
+        var url =
+        "https://zaap.bio/ui.johnson/get-posts";
+        $.ajaxSetup({
+        headers: {
+        "X-CSRF-TOKEN": "WeyqqO8ai8hPEIKBCeHcDbeNAALrQYDLFX8wW2gl",
+        },
+        });
+
+        $.ajax({
+        url: url,
+        type: "GET",
+        success: function(response) {
+        $(".posts-main").html(response);
+        postsLoaded = true;
+        },
+        error: function(xhr, status, error) {
+        console.log(error); // Check for any error messages
+        },
+        });
+        }
+
+        $(document).ready(function() {
+        function hasQueryParameter(parameterName) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.has(parameterName);
+        }
+        // Handle initial tab based on the URL hash
+        var tab = window.location.hash;
+        if (tab) {
+            showTab(tab);
+        }
+        else if(hasQueryParameter("post")){
+            post();
+        }
+        function post() {
+        var hash = window.location.href;
+        var startIndex = hash.indexOf("?post=") + 6; // Add the length of "?post=" to get the starting index
+        var slug = hash.substring(startIndex);
+        console.log(slug);
+        // if (window.location.hash == "#posts") {
+        if (slug) {
+            var url = "https://zaap.bio/ui.johnson/get-posts";
+            console.log(url,"hash");
+            showLoader();
+            $.ajaxSetup({
+                "headers": {
+                    'X-CSRF-TOKEN': 'WeyqqO8ai8hPEIKBCeHcDbeNAALrQYDLFX8wW2gl'
+                }
+            });
+            $.ajax({
+                url: url + '?slug=' + slug, 
+                type: "GET",
+                success: function(response) {
+                    if (response) {
+                        $("#postModal").modal('show');
+                        $("#postModal .modal-body").html(response);
+                        hideLoader();
+                    }
+                    else{
+                        hideLoader();
+                        window.location.hash = "#posts";
+                        $('.container.animate__animated.animate__fadeIn').addClass('contain')
+                        var tab = window.location.hash;
+                        console.log(tab)
+                        showTab(tab)
+                    }
+                } 
+            });
+            $("#postModal").on('hide.bs.modal', function() {
+                var url = window.location.href;
+            if (url.indexOf("?post=") !== -1) {
+                url = url.split("?post=")[0] + '#posts' ; // Update the URL with the modified hash
+                console.log(url,'url')
+                history.pushState(null, null, url); // Update the URL in the browser without reloading the page
+                $('.container.animate__animated.animate__fadeIn').addClass('contain')
+                showTab("#posts")
+            }
+                // if (window.location.hash.indexOf("#posts#") !== -1) {
+                //     window.location.hash = "#posts";
+                //     var tab = window.location.hash;
+                //     console.log(tab)
+                //     showTab(tab)
+                // }
+            });
+        }
+        // }
+        }
+    });
+
+    $(document).on('click', ".page-post", function() {
+        var slug = $(this).attr('data-slug');
+        var postid = $(this).attr('data-id'); // Get the data-id of the clicked post
+
+        var url = "https://zaap.bio/ui.johnson/get-posts";
+
+        showLoader();
+        $.ajaxSetup({
+            "headers": {
+                'X-CSRF-TOKEN': 'WeyqqO8ai8hPEIKBCeHcDbeNAALrQYDLFX8wW2gl'
+            }
+        });
+        $.ajax({
+            url: url + '?post=' + postid,
+            type: "GET",
+            success: function(response) {
+                hideLoader();
+                $("#postModal").modal('show');
+                $("#postModal .modal-body").html(response);
+                var urlhash  = window.location.href
+                var url = urlhash.replace('#posts','') +  '?post=' + slug ;
+                console.log( url);
+                window.history.pushState('','',url);
+
+            }
+        });
+        $("#postModal").on('hide.bs.modal', function() {
+            var url = window.location.href;
+            if (url.indexOf("?post=") !== -1) {
+                url = url.split("?post=")[0] + "#posts"; // Update the URL with the modified hash
+                history.pushState(null, null, url); // Update the URL in the browser without reloading the page
+            }
+        });
+    });
+        function initializeCardSlider(sliderContainer, leftArrow, leftFade, rightArrow, rightFade, scrollDistance) {
+            // Initial setup
+            $(leftArrow).css("display", "none");
+            $(leftFade).css("display", "none");
+
+            var linksArea = $(sliderContainer);
+
+            // Left arrow click event
+            $(document).on('click',leftArrow,function () {
+                linksArea.animate({ scrollLeft: '-=' + scrollDistance }, 500);
+            });
+
+            // Right arrow click event
+            $(document).on('click',rightArrow,function () {
+                $(leftArrow).css("display", "flex");
+                linksArea.animate({ scrollLeft: '+=' + scrollDistance }, 500);
+            });
+
+            // Scroll event
+            linksArea.scroll(function () {
+                var scrollLeft = linksArea.scrollLeft();
+                $(leftArrow).toggle(scrollLeft > 0);
+                $(leftFade).toggle(scrollLeft > 0);
+
+                var containerWidth = linksArea.width();
+                var scrollWidth = linksArea[0].scrollWidth;
+                var scrollRight = scrollWidth - containerWidth - scrollLeft;
+
+                $(rightArrow).toggle(scrollRight > 0);
+                $(rightFade).toggle(scrollRight > 0);
+            });
+        }
+
+        $(document).ready(function () {
+            initializeCardSlider(".product-slider", ".product-left-arrow", ".product-left-fade", ".product-right-arrow", ".product-right-fade", 350);
+            initializeCardSlider(".meeting-slider", ".meeting-left-arrow", ".meeting-left-fade", ".meeting-right-arrow", ".meeting-right-fade", 350);
+        });
+        function initializeSlider(sliderType) {
+            $("." + sliderType + "-slider").each(function () {
+                var sliderId = $(this).data('id');
+                var sliderContainer = '.' + sliderType + '-slider-' + sliderId;
+                var leftArrow = "." + sliderType + '-left-arrow-' + sliderId;
+                var leftFade = "." + sliderType + '-left-fade-' + sliderId;
+                var rightArrow = "." + sliderType + '-right-arrow-' + sliderId;
+                var rightFade = "." + sliderType + '-right-fade-' + sliderId;
+                initializeCardSlider(sliderContainer, leftArrow, leftFade, rightArrow, rightFade, 350);
+            });
+        }
+
+        // Usage
+        initializeSlider("tiktok");
+        initializeSlider("folder-link");
+        initializeSlider("youtube");
+        </script>
+    </body>
+    
+</html>
